@@ -1,8 +1,8 @@
 # ru-awesome-opensource
 
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities)
+[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/utm_source=github&utm_medium=link&utm_campaign=ru-awesome-opensource)
 
-Данный репозиторий создан и поддерживается командой и сообществом образовательного проекта *Хекслет*. [Подробнее о проекте](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities).
+This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-awesome-opensource).
 
 Список русскоязычных опенсорсных проектов, в которых можно принять участие.
 
@@ -19,7 +19,7 @@
 
 ### Hexlet
 
-Hexlet — не просто школа программирования. Это большое и дружелюбное комьюнити в котором более 20 тысяч участников. Многих мы знаем лично, встречаемся, ходим на скалодром и вместе разрабатываем открытые проекты. Самые активные ребята часто спрашивают, как поучаствовать в жизни проекта, принести пользу сообществу и тем, кто учится? А сделать можно многое. Ниже полный список тех активностей, которым нужны руки и голова. Если вам что-то придется по душе, то пишите либо на почту в support@hexlet.io, либо в комьюнити в канал #hexlet-volunteers. Список проектов, в которых можно принять участие, находится [здесь](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community/) 
+Hexlet — не просто школа программирования. Это большое и дружелюбное комьюнити в котором более 20 тысяч участников. Многих мы знаем лично, встречаемся, ходим на скалодром и вместе разрабатываем открытые проекты. Самые активные ребята часто спрашивают, как поучаствовать в жизни проекта, принести пользу сообществу и тем, кто учится? А сделать можно многое. Ниже полный список тех активностей, которым нужны руки и голова. Если вам что-то придется по душе, то пишите либо на почту в support@hexlet.io, либо в комьюнити в канал #hexlet-volunteers. Список проектов, в которых можно принять участие, находится [здесь](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community/)
 
 ### natasha
 

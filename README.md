@@ -109,3 +109,14 @@ Cult of Martians, настоящие задачи для веб-программ
 
 [Сайт Evil Martians](https://evilmartians.com/)
 
+### Django-stubs
+Этот пакет содержит заглушки типов и настраиваемый плагин mypy для предоставления более точных статических типов и вывода типов для платформы Django. Конечная цель состоит в том, чтобы получить точные типы для наиболее распространенных шаблонов.
+
+[Открытые issues](https://github.com/typeddjango/django-stubs/issues)
+
+
+### Wemake-python-styleguide
+Wemake-python-styleguide - это линтер для python, который является плагином [flake8](https://flake8.pycqa.org/en/latest/) с [некоторыми другими плагинами](https://wemake-python-styleguide.readthedocs.io/en/latest/pages/usage/violations/index.html#external-plugins) в качестве зависимостей.
+
+[Открытые issues](https://github.com/wemake-services/wemake-python-styleguide/issues)
+

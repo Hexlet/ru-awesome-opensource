@@ -1,19 +1,41 @@
-# Open-source проекты в которых можно принять участие
+<div align="center">
 
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-awesome-opensource)
+<a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-awesome-opensource">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_white_rus.svg">
+        <img src="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_primary_rus.svg" alt="Хекслет" height="64">
+    </picture>
+</a>
 
-This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-awesome-opensource).
+# Open-source проекты, в которых можно принять участие
 
-Список русскоязычных опенсорсных проектов, в которых можно принять участие.
+**17 живых проектов, которые ждут контрибьюторов** — от линтеров и библиотек до онлайн-игр
+и сервисов с тысячами пользователей.
+
+Первый вклад в открытый код — это код в продакшене, ревью от практикующих разработчиков
+и строчка в резюме, за которой стоит настоящая работа.
+
+[![PR welcome](https://img.shields.io/badge/pull_request-welcome-brightgreen?style=flat-square)](#как-помочь)
+[![Хекслет](https://img.shields.io/badge/обучение-Хекслет-116dff?style=flat-square)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-awesome-opensource)
+[![Telegram](https://img.shields.io/badge/сообщество-Telegram-26A5E4?style=flat-square)](https://t.me/hexletcommunity)
+
+</div>
+
+Список создан и поддерживается командой и сообществом [Хекслета](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-awesome-opensource) —
+образовательного проекта.
+
+> [!TIP]
+> Не знаете, с чего начать? Ищите в репозиториях задачи с меткой *good first issue* — их заводят
+> специально для новых участников. Спросить совета можно в открытом
+> [Telegram-сообществе Хекслета](https://t.me/hexletcommunity).
 
 ## Как помочь?
 
-Мы принимаем Pull Request'ы!
+Мы принимаем pull-request'ы.
 
-### Правила
-
-* Располагайте в алфавитном порядке
-* Добавьте описание проекта, которому требуется помощь, как принять участие, контактные данные для связи
+* Располагайте проекты в алфавитном порядке.
+* Описывайте, что за проект, какая помощь нужна и как связаться с командой.
+* Ссылайтесь на список открытых задач: без него читателю некуда пойти дальше.
 
 ## Проекты
 
@@ -49,7 +71,7 @@ js-dos - проект, написанный на C++/WebAssembly/TypeScript, к�
 
 [Страница проекта на GitHub](https://github.com/wapmorgan/Morphos)
 
-# PastVU
+### PastVU
 
 [PastVu](https://pastvu.com/) — проект по сбору свидетельств прошлого. Взгляд на историю среды обитания человечества. Стек: NodeJS (ExpressJS, Pug, Docker, MongoDB)
 

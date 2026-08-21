@@ -35,8 +35,14 @@
 
 * Располагайте в алфавитном порядке
 * Добавьте описание проекта, которому требуется помощь, как принять участие, контактные данные для связи
+* Дайте ссылку на список открытых задач: с неё начинает тот, кто решил помочь
 
 ## Проекты
+
+### Django-stubs
+Этот пакет содержит заглушки типов и настраиваемый плагин mypy для предоставления более точных статических типов и вывода типов для платформы Django. Конечная цель состоит в том, чтобы получить точные типы для наиболее распространенных шаблонов.
+
+[Открытые issues](https://github.com/typeddjango/django-stubs/issues)
 
 ### ElasticMapper
 
@@ -44,6 +50,13 @@
 
 * [Репозиторий проекта](https://github.com/nomilkinmyhome/elasticmapper)
 * [Гайд для контрибьюторов](https://github.com/nomilkinmyhome/elasticmapper/blob/main/CONTRIBUTION_GUIDE.md)
+
+### Evil Martians
+Cult of Martians, настоящие задачи для веб-программистов: создать новые библиотеки или добавить что-то в существующие. Учитываются при найме в «Марсиане»
+
+[Задачи на JavaScript/TypeScript/Ruby/Go](https://cultofmartians.com/)
+
+[Сайт Evil Martians](https://evilmartians.com/)
 
 ### Hexlet
 
@@ -56,6 +69,20 @@ js-dos - проект, написанный на C++/WebAssembly/TypeScript, к�
 * [github](https://github.com/caiiiycuk/js-dos)
 * [Телеграм](https://t.me/doszonechat)
 
+### Ligretto
+
+[Ligretto](https://ligretto.app/) - наша первая и не последняя онлайн-настольная игра.
+
+Пишем на React, NextJS, socket.io в монорепе. Инфраструктура на AWS с terraform и конечно Docker. Все по-серьезному: CI/CD, тесты, code-review. Конечно, всегда есть куда улучшать!
+
+Берите [любой issues](https://github.com/MemeBattle/monorepo/issues) (особенно с лэйблом ["good first issue"](https://github.com/MemeBattle/monorepo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)) и врывайтесь в разработку! А мы с радостью вам поможем!
+
+### Morphos
+
+Морфологическое решение для русского и английского языков, полностью написанное на PHP. Предоставляет классы для склонения личных имен, географических названий, склонения и образования множественного числа существительных, генерации количественных и порядковых числительных, правописания денежных сумм и временных интервалов. Морфос открыт для дополнений и улучшений.
+
+[Страница проекта на GitHub](https://github.com/wapmorgan/Morphos)
+
 ### natasha
 
 Проект natasha решает базовые задачи обработки естественного русского языка: сегментация на токены и предложения, морфологический и синтаксический анализ, лемматизация, извлечение, нормализация именованных сущностей.
@@ -64,12 +91,6 @@ js-dos - проект, написанный на C++/WebAssembly/TypeScript, к�
 * [Библиотека natasha на GitHub](https://github.com/natasha/natasha)
 * [Чат пользователей и разработчиков проекта](https://telegram.me/natural_language_processing)
 
-### Morphos
-
-Морфологическое решение для русского и английского языков, полностью написанное на PHP. Предоставляет классы для склонения личных имен, географических названий, склонения и образования множественного числа существительных, генерации количественных и порядковых числительных, правописания денежных сумм и временных интервалов. Морфос открыт для дополнений и улучшений.
-
-[Страница проекта на GitHub](https://github.com/wapmorgan/Morphos)
-
 ### PastVU
 
 [PastVu](https://pastvu.com/) — проект по сбору свидетельств прошлого. Взгляд на историю среды обитания человечества. Стек: NodeJS (ExpressJS, Pug, Docker, MongoDB)
@@ -77,12 +98,31 @@ js-dos - проект, написанный на C++/WebAssembly/TypeScript, к�
 * [Страница проекта на Github](https://github.com/PastVu/pastvu)
 * [Задачи](https://github.com/PastVu/pastvu/issues)
 
+### Price Monitor
+[Price Monitor](https://pricemonit.ru/) — это проект, помогающий находить лучшие скидки в магазинах. Сервис ежедневно собирает информацию о ценах из разных магазинов и сохраняет их в базу. На сайте можно найти нужный товар по названию, посмотреть категории или отсканировать штрих-код на товаре. Для каждого товара есть график изменения цен в магазинах за последние полгода, а также информация обо всех действующих акциях и скидках.
+
+Проект написан на NextJS
+
+[Открытые issues](https://github.com/Loskir/price-monitor-website-next/issues)
+
 ### pymystem
 
 Библиотека Python для морфологического анализатора [Yandex Mystem 3.1](http://api.yandex.ru/mystem). Оригинальный инструмент поставляется в виде бинарного файла, и эта библиотека позволяет легко интегрировать его в проекты на Python. Сообщите нам в вопросах, если Вы хотите принять участие в разработке или поддержке этого проекта.
 Пожалуйста, сообщайте о любых ошибках или пожеланиях, которые у Вас есть, с помощью issue трекера GitHub (https://github.com/nlpub/pymystem3/issues)! У нас очень ограниченное количество ресурсов для поддержки этого проекта: пожалуйста, если Вы видите очевидный способ исправления проблемы, отправьте нам pull request. Мы очень открыты для принятия исправлений ошибок, и Ваша помощь будет высоко оценена.
 
 [Страница проекта на GitHub](https://github.com/nlpub/pymystem3)
+
+### React Figma
+
+Рендерер React для Figma. Используйте компоненты React в качестве источника для ваших дизайнов.
+
+* Совместимость с API react-native, react-sketchapp, react-primitives.
+* Поддержка гибких макетов с помощью Yoga Layout.
+* Поддержка гидратации и HMR.
+* Построен на Figma Plugin API.
+* Не является генератором кода.
+
+[Страница проекта на GitHub](https://github.com/react-figma/react-figma)
 
 ### RHVoice
 
@@ -93,6 +133,17 @@ RHVoice - это бесплатный многоязычный синтезат�
 
 * [Страница проекта на GitHub](https://github.com/RHVoice/RHVoice)
 * [Обсуждение проекта](https://github.com/RHVoice/RHVoice/discussions)
+
+### Tver.io Team Bot
+
+Чат бот для телеграмма
+
+[Страница проекта на GitHub](https://github.com/tverio/tverio-team-bot)
+
+### Wemake-python-styleguide
+Wemake-python-styleguide - это линтер для python, который является плагином [flake8](https://flake8.pycqa.org/en/latest/) с [некоторыми другими плагинами](https://wemake-python-styleguide.readthedocs.io/en/latest/pages/usage/violations/index.html#external-plugins) в качестве зависимостей.
+
+[Открытые issues](https://github.com/wemake-services/wemake-python-styleguide/issues)
 
 ### Сказка (Zero Player Game)
 
@@ -118,55 +169,3 @@ RHVoice - это бесплатный многоязычный синтезат�
 
 [Страница проекта на GitHub](https://github.com/javascript-tutorial/ru.javascript.info)
 [Чат в Discord](https://discord.gg/X8yWNWpTQs)
-
-### React Figma
-
-Рендерер React для Figma. Используйте компоненты React в качестве источника для ваших дизайнов.
-
-* Совместимость с API react-native, react-sketchapp, react-primitives.
-* Поддержка гибких макетов с помощью Yoga Layout.
-* Поддержка гидратации и HMR.
-* Построен на Figma Plugin API.
-* Не является генератором кода.
-
-[Страница проекта на GitHub](https://github.com/react-figma/react-figma)
-
-### Tver.io Team Bot
-
-Чат бот для телеграмма
-
-[Страница проекта на GitHub](https://github.com/tverio/tverio-team-bot)
-
-### Evil Martians
-Cult of Martians, настоящие задачи для веб-программистов: создать новые библиотеки или добавить что-то в существующие. Учитываются при найме в «Марсиане»
-
-[Задачи на JavaScript/TypeScript/Ruby/Go](https://cultofmartians.com/)
-
-[Сайт Evil Martians](https://evilmartians.com/)
-
-### Django-stubs
-Этот пакет содержит заглушки типов и настраиваемый плагин mypy для предоставления более точных статических типов и вывода типов для платформы Django. Конечная цель состоит в том, чтобы получить точные типы для наиболее распространенных шаблонов.
-
-[Открытые issues](https://github.com/typeddjango/django-stubs/issues)
-
-
-### Wemake-python-styleguide
-Wemake-python-styleguide - это линтер для python, который является плагином [flake8](https://flake8.pycqa.org/en/latest/) с [некоторыми другими плагинами](https://wemake-python-styleguide.readthedocs.io/en/latest/pages/usage/violations/index.html#external-plugins) в качестве зависимостей.
-
-[Открытые issues](https://github.com/wemake-services/wemake-python-styleguide/issues)
-
-
-### Price Monitor
-[Price Monitor](https://pricemonit.ru/) — это проект, помогающий находить лучшие скидки в магазинах. Сервис ежедневно собирает информацию о ценах из разных магазинов и сохраняет их в базу. На сайте можно найти нужный товар по названию, посмотреть категории или отсканировать штрих-код на товаре. Для каждого товара есть график изменения цен в магазинах за последние полгода, а также информация обо всех действующих акциях и скидках.
-
-Проект написан на NextJS
-
-[Открытые issues](https://github.com/Loskir/price-monitor-website-next/issues)
-
-### Ligretto
-
-[Ligretto](https://ligretto.app/) - наша первая и не последняя онлайн-настольная игра.
-
-Пишем на React, NextJS, socket.io в монорепе. Инфраструктура на AWS с terraform и конечно Docker. Все по-серьезному: CI/CD, тесты, code-review. Конечно, всегда есть куда улучшать!
-
-Берите [любой issues](https://github.com/MemeBattle/monorepo/issues) (особенно с лэйблом ["good first issue"](https://github.com/MemeBattle/monorepo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)) и врывайтесь в разработку! А мы с радостью вам поможем!
